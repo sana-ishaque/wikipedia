@@ -1,0 +1,99 @@
+ul {
+    list-style: none;
+    border-left: rgb(167, 215, 249);
+    margin-top: 0px;
+    padding: 20px;
+    background-color: rgb(246, 246, 246);
+    font-size: 13px;
+    width: 13%;
+    height: auto;
+}
+.logo {
+    width: 120px;
+    height: 150px;
+    align-self: center
+    padding-left: 0px;
+    padding-bottom: 15px;
+    background-color: rgb(246, 246, 246);
+
+}
+.nav-1 {
+    font-size: 13px;
+    margin-top: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.not logged in {
+    margin-right: 9px;
+}
+
+.talk {
+    margin-right: 9px;
+    margin-left: 9px;
+}
+
+.contributions {
+    margin-left: 9px;
+    margin-right: 9px;
+}
+
+.creat acc {
+    margin-left: 9px;
+    margin-right: 9px;
+}
+
+.login {
+    margin-left: 9px;
+    margin-right: 9px;
+}
+
+.nav-2 {
+    font-size: 13px;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.nav-2-talk {
+    margin-right: auto;
+    margin-left: 9px;
+}
+
+.read {
+    margin-left: 9px;
+    margin-right: 9px;
+}
+
+.editc {
+    margin-left: 9px;
+    margin-right: 9px;
+}
+
+.newsec {
+    margin-left: 9px;
+    margin-right: 9px;
+}
+
+.view history {
+    margin-left: 9px;
+    margin-right: 12px;
+}
+
+.input {
+    margin-left: 9px;
+    margin-right: 9px;
+}
+
+.contents {
+    border: 0.5px solid rgba(192, 191, 191, 0.568);
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 76%;
+    margin-left: 29px;
+    padding: 10px;
+    background-color: rgba(223, 239, 245, 0.486);
+}
+
